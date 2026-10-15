@@ -1,5 +1,9 @@
 # 🍎 FrameworksSwiftUI
 
+<p style="text-align: center;">
+<img width="800" height="1738" alt="SimulatorScreenRecording-iPhone17ProMax-2026-10-15at16 47 02-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/ec7991a7-8c23-429f-b870-6ebc28470564" />
+</p>
+
 A small SwiftUI app for exploring Apple frameworks and developer tools. Browse a grid of topics, tap one to read its description, and open its Apple Developer page with **Learn More**.
 
 ## ✨ Features
